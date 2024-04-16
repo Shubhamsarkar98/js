@@ -46,7 +46,7 @@
 // console.log(arr2)
 //map is return the value but foreach not and if you define new arr map will do but foreach is not 
 ///-------------------- ----------     fliter and find--------------------------------//
-const arr=[1,6,3,1,2,1,6,8]
+//const arr=[1,6,3,1,2,1,6,8]
 
 // const arr2=arr.filter((data)=>{
 //     return (data%3==0)
@@ -66,3 +66,15 @@ const arr=[1,6,3,1,2,1,6,8]
 // console.log(arr3)
 
 //filter can all value given result but find only first value given
+
+///-------------------------------------Reduce mathod------------------------------------------//
+
+// const arr=[20,2,3,1,2,2,10]
+
+// const arr2=arr.reduce((acc,data)=>{
+//     return acc+data
+// },0)
+
+// console.log(arr2)
+
+//reduce mathod all data will be combined
