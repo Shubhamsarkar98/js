@@ -78,3 +78,12 @@
 // console.log(arr2)
 
 //reduce mathod all data will be combined
+
+////-------------include mathod-------------//
+
+// const arr=[1,2,1,1,2,1,1,10]
+
+// const arr2=arr.includes(9)
+// console.log(arr2)
+
+///----------include mathod use check the element will be or not
