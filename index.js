@@ -92,11 +92,11 @@
 //////////-------------------------Spilce and slice mathod-----------------------------------------------//
 
 
-const fruits = ["Banana", "Orange", "Lemon", "Apple", "Mango"];
-const citrus = fruits.slice(0, 3);
+// const fruits = ["Banana", "Orange", "Lemon", "Apple", "Mango"];
+// const citrus = fruits.slice(0, 3);
 
-console.log(fruits)
-console.log(citrus)
+// console.log(fruits)
+// console.log(citrus)
 
 //slice mathod not working original arr its make new array and their two pramater first one start which index and 
 //second one end index but end index like(0,3) so 3 index not include only 0,1,2
