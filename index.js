@@ -125,3 +125,35 @@ const fruits =  ["Banana", "Orange", "Apple", "Mango", "Kiwi"];
 
 ////////-----------splice mathod three or mutiple parmeter first start the item to remove item,second count how mach
 //  item remove , reset one add the item
+
+///------------join mathod-----------------//
+
+// const elements = ['Fire', 'Air', 'Water'];
+
+// console.log(elements.join());
+
+// console.log(elements.join(''));
+// // Expected output: "FireAirWater"
+
+// console.log(elements.join('-'));
+// // Expected output: "Fire-Air-Water"
+
+//------join mathod will use sparetor in array into string-------------//
+
+///------------------flat mathod---//
+
+// const arr1 = [0, 1, 2, [3, 4]];
+
+// const arr2=arr1.flat()
+// console.log(arr2)
+
+// const arr3 = [0, 1, [2, [3, [4, 5]]]];
+
+// const arr4=arr3.flat()
+
+// console.log(arr4)
+
+// const arr5=arr3.flat(Infinity)
+// console.log(arr5)
+
+//--------------flat mathod one arr mutiple array to its help to break the array flat(Infinity)  all arrary convert into array
