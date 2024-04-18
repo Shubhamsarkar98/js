@@ -117,8 +117,8 @@ const fruits =  ["Banana", "Orange", "Apple", "Mango", "Kiwi"];
 
 // console.log(fruits)
 
-const removeItem=fruits.splice(2,2,'shu')
-console.log(removeItem)
+// const removeItem=fruits.splice(2,2,'shu')
+// console.log(removeItem)
 
 
 ////////splice mathod is muniption original arr  and if you define the new arr its given remove item only----------//
