@@ -157,3 +157,18 @@ const fruits =  ["Banana", "Orange", "Apple", "Mango", "Kiwi"];
 // console.log(arr5)
 
 //--------------flat mathod one arr mutiple array to its help to break the array flat(Infinity)  all arrary convert into array
+
+
+///------------------sorting mathod------------------//////////
+
+// const arr=['b','a','z','s','e']
+// arr.sort()
+// console.log(arr)
+// const arr=[2,1,4,3,6,7,4,5,1,3,3,10,12,11,67,58,13,18]
+// // console.log(arr.sort())//----its not working the sorting will  then comparing their sequences of UTF-16 code units values only so not working number.
+
+// const arr1=arr.sort((a,b)=>{
+//     return a-b
+// })
+// console.log(arr1)
+//---perfect way sort the value
