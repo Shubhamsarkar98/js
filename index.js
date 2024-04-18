@@ -100,3 +100,28 @@
 
 //slice mathod not working original arr its make new array and their two pramater first one start which index and 
 //second one end index but end index like(0,3) so 3 index not include only 0,1,2
+
+// const arr=[1,2,2,1,1,1]
+
+// const arr2=arr.slice(1)
+
+// console.log(arr2)
+
+//----------------without seccond pramater code only start postion
+
+
+//-----------------splice mathod-------------------------------//
+
+const fruits =  ["Banana", "Orange", "Apple", "Mango", "Kiwi"];
+// fruits.splice(3,2,'shu')
+
+// console.log(fruits)
+
+const removeItem=fruits.splice(2,2,'shu')
+console.log(removeItem)
+
+
+////////splice mathod is muniption original arr  and if you define the new arr its given remove item only----------//
+
+////////-----------splice mathod three or mutiple parmeter first start the item to remove item,second count how mach
+//  item remove , reset one add the item
