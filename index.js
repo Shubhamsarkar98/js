@@ -172,3 +172,12 @@ const fruits =  ["Banana", "Orange", "Apple", "Mango", "Kiwi"];
 // })
 // console.log(arr1)
 //---perfect way sort the value
+
+//////=============Array from-----------------------//
+// creating a new array from string
+
+//--------its convert string into array
+let newArray = Array.from("abc");
+
+console.log(newArray)
+
