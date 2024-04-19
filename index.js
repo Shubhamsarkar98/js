@@ -189,3 +189,31 @@
 // // console.log(arr)
 
 // const arr1=fruits.concat(arr)
+
+///-----------Destructuring assignment------------//
+
+// const foo = ["one", "two", "three"];
+// const [red, yellow, green] = foo;
+// console.log(red)
+
+// const foo = ["one", "two"];
+
+// const [red, yellow, green, blue] = foo;
+// console.log(red); // "one"
+// console.log(yellow); // "two"
+// console.log(green); // undefined
+// console.log(blue); // undefined
+// const foo = ["one", "two", "three"];
+// const [red,...rest] = foo;
+// console.log(rest)
+///---------Swapping variables----------//
+// let a = 1;
+// let b = 3;
+
+// [a, b] = [b, a];
+// console.log(a); // 3
+// console.log(b); // 1
+
+// const arr = [1, 2, 3];
+// [arr[2], arr[1]] = [arr[1], arr[2]];
+// console.log(arr); // [1, 3, 2]
