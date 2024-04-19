@@ -112,7 +112,7 @@
 
 //-----------------splice mathod-------------------------------//
 
-const fruits =  ["Banana", "Orange", "Apple", "Mango", "Kiwi"];
+// const fruits =  ["Banana", "Orange", "Apple", "Mango", "Kiwi"];
 // fruits.splice(3,2,'shu')
 
 // console.log(fruits)
@@ -177,7 +177,15 @@ const fruits =  ["Banana", "Orange", "Apple", "Mango", "Kiwi"];
 // creating a new array from string
 
 //--------its convert string into array
-let newArray = Array.from("abc");
+// let newArray = Array.from("abc");
 
-console.log(newArray)
+// console.log(newArray)
 
+//------------array clone mathod------------------///
+
+// const fruits = ["Banana", "Orange", "Apple", "Mango"];
+
+// // const arr=[...fruits,'shubham','ram','ta']
+// // console.log(arr)
+
+// const arr1=fruits.concat(arr)
