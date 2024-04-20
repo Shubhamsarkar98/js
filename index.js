@@ -217,3 +217,9 @@
 // const arr = [1, 2, 3];
 // [arr[2], arr[1]] = [arr[1], arr[2]];
 // console.log(arr); // [1, 3, 2]
+
+//-------------------------push and pop-------------------//
+// const a=[1,2,3,4,5]
+// a.push(1)
+// console.log(a)
+///////---------push mathod original  array push in last not first
