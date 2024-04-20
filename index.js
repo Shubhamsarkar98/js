@@ -223,3 +223,7 @@
 // a.push(1)
 // console.log(a)
 ///////---------push mathod original  array push in last not first
+// const a=[1,2,3,4,5]
+// a.pop()
+// console.log(a)
+///----pop mathod original  array pop in last not first
