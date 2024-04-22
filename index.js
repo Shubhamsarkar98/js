@@ -245,4 +245,37 @@
 //The shift() method removes the first item of an array.
 //The shift() method changes the original array.
 //The shift() method returns the shifted element.
+//-------------some advence mathod--------------------------///
 
+const arr=[
+    {
+        name:"shubham sarkar",
+        id:1,
+        salery:10000
+    },
+    {
+        name:"ram",
+        id:2,
+        salery:12000
+    },
+    {
+        name:"xyx",
+        id:3,
+        salery:13000
+    },
+    {
+        name:"yxz",
+        id:4,
+        salery:14000
+    },
+    
+]
+// const arr2=arr.map((data,index)=>{
+//     return data.name
+// })
+// console.log(arr2)
+// const arr3=arr.filter((data,i)=>{
+//     return data.salery>10000
+// }).map((t)=>{
+//     return t.name
+// })
