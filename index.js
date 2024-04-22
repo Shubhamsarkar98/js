@@ -227,3 +227,22 @@
 // a.pop()
 // console.log(a)
 ///----pop mathod original  array pop in last not first
+
+///---------------Array unshift()----------------------------//
+
+// const fruits = ["Banana", "Orange", "Apple", "Mango"];
+// fruits.unshift("Lemon","Pineapple");
+// console.log(fruits)
+//-----unshift meaning start  add the element not last in 
+//-----The unshift() method adds new elements to the beginning of an array.
+//The unshift() method overwrites the original array.
+
+
+//////////---------------------------JavaScript Array shift()-----------------------------------------//
+// const fruits = ["Banana", "Orange", "Apple", "Mango"];
+// fruits.shift();
+// console.log(fruits)
+//The shift() method removes the first item of an array.
+//The shift() method changes the original array.
+//The shift() method returns the shifted element.
+
