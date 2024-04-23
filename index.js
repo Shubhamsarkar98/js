@@ -247,40 +247,40 @@
 //The shift() method returns the shifted element.
 //-------------some advence mathod--------------------------///
 
-const arr=[
-    {
-        name:"shubham sarkar",
-        id:1,
-        salery:10000
-    },
-    {
-        name:"ram",
-        id:2,
-        salery:12000
-    },
-    {
-        name:"xyx",
-        id:3,
-        salery:13000
-    },
-    {
-        name:"yxz",
-        id:4,
-        salery:14000
-    },
-    {
-        name:"yxz11",
-        id:5,
-        salery:9000
-    },
-    {
-        name:"xyx",
-        id:6,
-        salery:8000
-    },
+// const arr=[
+//     {
+//         name:"shubham sarkar",
+//         id:1,
+//         salery:10000
+//     },
+//     {
+//         name:"ram",
+//         id:2,
+//         salery:12000
+//     },
+//     {
+//         name:"xyx",
+//         id:3,
+//         salery:13000
+//     },
+//     {
+//         name:"yxz",
+//         id:4,
+//         salery:14000
+//     },
+//     {
+//         name:"yxz11",
+//         id:5,
+//         salery:9000
+//     },
+//     {
+//         name:"xyx",
+//         id:6,
+//         salery:8000
+//     },
 
     
-]
+// ]
 // const arr2=arr.map((data,index)=>{
 //     return data.name
 // })
