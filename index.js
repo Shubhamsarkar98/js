@@ -301,3 +301,34 @@
 //     return acc+data.salery
 // },0)
 // console.log(addtotal)
+
+
+///--------------Math mathod----------------------------------//
+///------------------Math.round()----//
+
+// const val=Math.round(4.6); answer 5
+// const val=Math.round(4.4) answer 4
+// const val=Math.round(4.5) answer will be 5
+// console.log(val) 
+
+//--Math.round() returns the nearest integer:
+//math round will be nearest integer like (4.6) answer will 5 and 4.4 answer will be 4 becuse 4.4 nearest value will be 4
+
+///------Math.ceil()------------------------------------------//
+// console.log(Math.ceil(4.9)); answer will be 5
+// console.log(Math.ceil(4.7)); answer will be 5
+// console.log(Math.ceil(4.4)); answer will be 5
+// console.log(Math.ceil(4.2)); answer will be 5
+// console.log(Math.ceil(-4.2)) answer will be -4
+
+//Math.ceil(x) returns the value of x rounded up to its nearest integer:
+
+////======================================================Math.floor()====================================================//
+
+// console.log(Math.floor(4.9)); answer 4
+// console.log(Math.floor(4.7)); answer 4
+// console.log(Math.floor(4.4)); answer 4
+// console.log(Math.floor(4.2));  answer 4
+// console.log(Math.floor(-4.2)); answer -5
+
+//////////////===================================Math.floor(x) returns the value of x rounded down to its nearest integer:
