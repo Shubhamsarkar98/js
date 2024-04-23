@@ -268,6 +268,17 @@ const arr=[
         id:4,
         salery:14000
     },
+    {
+        name:"yxz11",
+        id:5,
+        salery:9000
+    },
+    {
+        name:"xyx",
+        id:6,
+        salery:8000
+    },
+
     
 ]
 // const arr2=arr.map((data,index)=>{
@@ -279,3 +290,14 @@ const arr=[
 // }).map((t)=>{
 //     return t.name
 // })
+//asc to desc sort
+// const sort=arr.sort((a,b)=>{
+//     return a.salery-b.salery
+// })
+
+// console.log(sort)
+//add total the evary
+// const addtotal=arr.reduce((acc,data)=>{
+//     return acc+data.salery
+// },0)
+// console.log(addtotal)
