@@ -332,3 +332,25 @@
 // console.log(Math.floor(-4.2)); answer -5
 
 //////////////===================================Math.floor(x) returns the value of x rounded down to its nearest integer:
+
+///---------------------------------------------------------Math.trunc-------------------------------//
+
+// console.log(Math.trunc(4.9));///----------------------answer will be 4
+// console.log(Math.trunc(4.7));////---------------------answer will be 4
+// console.log(Math.trunc(4.4));///----------------------answer will be 4
+// console.log(Math.trunc(4.2));///----------------------answer will be 4
+// console.log(Math.trunc(-4.2));///----------------------answer will be 4
+//--Math.trunc(x) returns the integer part of x:
+////--------------Math.sign(x)
+// console.log(Math.sign(3));
+// // Expected output: 1
+
+// console.log(Math.sign(-3));
+// // Expected output: -1
+
+// console.log(Math.sign(0));
+// // Expected output: 0
+
+// console.log(Math.sign('-3'));
+// // Expected output: -1
+///------------The Math.sign() static method returns 1 or -1, indicating the sign of the number passed as argument. If the input is 0 or -0, it will be returned as-is.-------//
