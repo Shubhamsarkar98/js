@@ -354,3 +354,8 @@
 // console.log(Math.sign('-3'));
 // // Expected output: -1
 ///------------The Math.sign() static method returns 1 or -1, indicating the sign of the number passed as argument. If the input is 0 or -0, it will be returned as-is.-------//
+
+////------------------------------Math.random-----------------------------------------------------//
+
+// console.log(Math.random()) output will 0 to 1
+//console.log(Math.floor(Math.random() * 10)); output will be // Returns a random integer from 0 to 9:
