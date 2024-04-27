@@ -359,3 +359,14 @@
 
 // console.log(Math.random()) output will 0 to 1
 //console.log(Math.floor(Math.random() * 10)); output will be // Returns a random integer from 0 to 9:
+
+///-------------------------Object-------------------------------------------//
+
+// let person = {firstName:"John", lastName:"Doe", age:50, eyeColor:"blue"};
+// console.log(person.firstName)
+//The Object.entries() static method returns an array of a given object's own enumerable string-keyed property key-value pairs.
+// const b=Object.entries(person).map((d)=>{
+//     return d
+// })
+//entries given key-pair
+// console.log(b)
