@@ -368,5 +368,13 @@
 // const b=Object.entries(person).map((d)=>{
 //     return d
 // })
-//entries given key-pair
+//entries given key-pair and convert into array 
 // console.log(b)
+
+// let person = {firstName:"John", lastName:"Doe", age:50, eyeColor:"blue"};
+// const b=Object.keys(person).map((d)=>{
+//     return d
+// })
+// //The Object.keys() static method returns an array of a given object's own enumerable string-keyed property names.
+// console.log(b)
+// //---its given only key name in arrary
