@@ -378,3 +378,9 @@
 // //The Object.keys() static method returns an array of a given object's own enumerable string-keyed property names.
 // console.log(b)
 // //---its given only key name in arrary
+
+let person = {firstName:"John", lastName:"Doe", age:50, eyeColor:"blue"};
+const d=Object.values(person).map((d)=>{
+    return d
+})
+console.log(d)
