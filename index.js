@@ -399,7 +399,7 @@
 //   const myMother = new Person("Sally", "Rally", 48, "green");
 //   console.log(myFather.age)
 
-const obj = { a: 1, b: 2 };
+// const obj = { a: 1, b: 2 };
 
-const {a,b}=obj
-console.log(a)
+// const {a,b}=obj
+// console.log(a)
