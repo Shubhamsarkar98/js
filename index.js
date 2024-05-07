@@ -403,3 +403,7 @@
 
 // const {a,b}=obj
 // console.log(a)
+//The keyword async before a function makes the function return a promise:
+// async function myFunction() {
+//     return "Hello";
+//   }
