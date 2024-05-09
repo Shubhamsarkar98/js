@@ -407,3 +407,8 @@
 // async function myFunction() {
 //     return "Hello";
 //   }
+// const a=()=>{
+//     console.log('shubham sarkar')
+// }
+// a()
+//---arrow funtion will be like a constant
