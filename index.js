@@ -431,3 +431,29 @@
 //    pattern += "\n";
 // }
 // console.log(pattern);
+
+// let rows = 5;
+
+// // // pattern variable carries the final pattern in string format
+// // let pattern = "";
+
+// // // outer loop runs for `rows` no. of times
+// // for (let n = 1; n <= rows; n++) {
+// //    for (let num = 1; num <= 6 - n; num++) {
+// //       pattern += "*";
+// //    }
+// //    pattern += "\n";
+// // }
+// // console.log(pattern);
+
+const n = 5;
+
+let string = ""
+
+for(let i=1;i<=n;i++){
+    for(let j=1;j<=n; j++){
+        string += "#"
+    }
+    string+= '\n'
+}
+console.log(string)
