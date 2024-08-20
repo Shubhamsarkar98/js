@@ -446,14 +446,23 @@
 // // }
 // // console.log(pattern);
 
-const n = 5;
+// const n = 5;
 
-let string = ""
+// let string = ""
 
-for(let i=1;i<=n;i++){
-    for(let j=1;j<=n; j++){
-        string += "#"
-    }
-    string+= '\n'
-}
-console.log(string)
+// for(let i=1;i<=n;i++){
+//     for(let j=1;j<=n; j++){
+//         string += "#"
+//     }
+//     string+= '\n'
+// }
+// console.log(string)
+
+// let a=10
+// let b=a
+// console.log(a, 'a before ')
+// console.log(b,' b before')
+// a++
+// console.log(a,'a after incrementing number')
+// console.log(b, ' b after incrementing number')
+// that b is not changed because the let const primitive data types  is stored in stack the why the a is changed but b is not 
